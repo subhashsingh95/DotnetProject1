@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio Application\\Projectapp1\\Projectapp1.csproj": {}
+    "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Job7.3\\Projectapp1.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio Application\\Projectapp1\\Projectapp1.csproj": {
+    "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Job7.3\\Projectapp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio Application\\Projectapp1\\Projectapp1.csproj",
+        "projectUniqueName": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Job7.3\\Projectapp1.csproj",
         "projectName": "Projectapp1",
-        "projectPath": "C:\\Visual Studio Application\\Projectapp1\\Projectapp1.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio Application\\Projectapp1\\obj\\",
+        "projectPath": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Job7.3\\Projectapp1.csproj",
+        "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+        "outputPath": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Job7.3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,24 +78,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.14, 5.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
