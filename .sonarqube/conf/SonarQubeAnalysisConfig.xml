@@ -88,7 +88,7 @@
     <Property Name="sonaranalyzer-vbnet.pluginVersion">8.34.0.42011</Property>
     <Property Name="sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByWeek">4</Property>
     <Property Name="sonaranalyzer-vbnet.analyzerId">SonarAnalyzer.VisualBasic</Property>
-    <Property Name="email.prefix">[SONARQUBE]</Property>
+    <Property Name="email.prefix">JobAlert:-</Property>
     <Property Name="sonar.cs.roslyn.ignoreIssues">false</Property>
     <Property Name="sonaranalyzer-cs.pluginKey">csharp</Property>
     <Property Name="sonar.json.file.suffixes">.json</Property>
