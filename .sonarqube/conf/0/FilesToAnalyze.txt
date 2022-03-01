@@ -61,6 +61,9 @@ C:\ProgramData\Jenkins\.jenkins\workspace\Test01\.dockerignore
 C:\ProgramData\Jenkins\.jenkins\workspace\Test01\Dockerfile
 C:\ProgramData\Jenkins\.jenkins\workspace\Test01\subhash1.txt
 C:\ProgramData\Jenkins\.jenkins\workspace\Test01\subhash2.txt
+C:\ProgramData\Jenkins\.jenkins\workspace\Test01\subhash3.txt
+C:\ProgramData\Jenkins\.jenkins\workspace\Test01\subhash4.txt
+C:\ProgramData\Jenkins\.jenkins\workspace\Test01\subhash5.txt
 C:\ProgramData\Jenkins\.jenkins\workspace\Test01\Test1.txt
 C:\ProgramData\Jenkins\.jenkins\workspace\Test01\Properties\launchSettings.json
 C:\ProgramData\Jenkins\.jenkins\workspace\Test01\Properties\serviceDependencies.json
