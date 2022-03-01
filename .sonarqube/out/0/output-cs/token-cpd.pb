@@ -1,5 +1,5 @@
-ê
-NC:\ProgramData\Jenkins\.jenkins\workspace\Test04\Controllers\HomeController.cs
+é
+MC:\ProgramData\Jenkins\.jenkins\workspace\Cred2\Controllers\HomeController.cs
 	namespace
 
  	
@@ -116,8 +116,8 @@ Controller" ,
 ;""o p
 }## 	
 }$$ 
-}%% †
-MC:\ProgramData\Jenkins\.jenkins\workspace\Test04\Data\ApplicationDbContext.cs
+}%% …
+LC:\ProgramData\Jenkins\.jenkins\workspace\Cred2\Data\ApplicationDbContext.cs
 	namespace 	
 Projectapp1
  
@@ -150,8 +150,8 @@ MC:\ProgramData\Jenkins\.jenkins\workspace\Test04\Data\ApplicationDbContext.cs
 { 	
 } 	
 } 
-} €¶
-gC:\ProgramData\Jenkins\.jenkins\workspace\Test04\Data\Migrations\00000000000000_CreateIdentitySchema.cs
+} ÿµ
+fC:\ProgramData\Jenkins\.jenkins\workspace\Cred2\Data\Migrations\00000000000000_CreateIdentitySchema.cs
 	namespace 	
 Projectapp1
  
@@ -1833,8 +1833,8 @@ ForeignKey
 ÚÚ 	
 }
 ÛÛ 
-}ÜÜ –
-IC:\ProgramData\Jenkins\.jenkins\workspace\Test04\Models\ErrorViewModel.cs
+}ÜÜ •
+HC:\ProgramData\Jenkins\.jenkins\workspace\Cred2\Models\ErrorViewModel.cs
 	namespace 	
 Projectapp1
  
@@ -1870,9 +1870,9 @@ IC:\ProgramData\Jenkins\.jenkins\workspace\Test04\Models\ErrorViewModel.cs
 }
 
  
-} ”
+} “
 
-;C:\ProgramData\Jenkins\.jenkins\workspace\Test04\Program.cs
+:C:\ProgramData\Jenkins\.jenkins\workspace\Cred2\Program.cs
 	namespace
 
  	
@@ -1950,8 +1950,8 @@ UseStartup )
 ) 
 ; 
 } 
-} Ã
-;C:\ProgramData\Jenkins\.jenkins\workspace\Test04\Startup.cs
+} Â
+:C:\ProgramData\Jenkins\.jenkins\workspace\Cred2\Startup.cs
 	namespace 	
 Projectapp1
  

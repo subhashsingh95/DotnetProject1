@@ -21,7 +21,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Test04/Data/Migrations/ApplicationDbContextModelSnapshot.cs",
+                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Cred2/Data/Migrations/ApplicationDbContextModelSnapshot.cs",
                 "region": {
                   "startLine": 41,
                   "startColumn": 21,
@@ -45,7 +45,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Test04/Data/Migrations/ApplicationDbContextModelSnapshot.cs",
+                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Cred2/Data/Migrations/ApplicationDbContextModelSnapshot.cs",
                 "region": {
                   "startLine": 127,
                   "startColumn": 21,
@@ -69,7 +69,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Test04/Data/Migrations/ApplicationDbContextModelSnapshot.cs",
+                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Cred2/Data/Migrations/ApplicationDbContextModelSnapshot.cs",
                 "region": {
                   "startLine": 130,
                   "startColumn": 21,
@@ -93,7 +93,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Test04/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs",
+                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Cred2/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 21,
@@ -117,7 +117,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Test04/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs",
+                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Cred2/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs",
                 "region": {
                   "startLine": 129,
                   "startColumn": 21,
@@ -141,7 +141,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Test04/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs",
+                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Cred2/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs",
                 "region": {
                   "startLine": 132,
                   "startColumn": 21,
@@ -156,18 +156,18 @@
           }
         },
         {
-          "ruleId": "S1118",
+          "ruleId": "S4487",
           "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "message": "Remove this unread private field '_logger' or refactor the code to use its value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Test04/Program.cs",
+                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Cred2/Controllers/HomeController.cs",
                 "region": {
-                  "startLine": 12,
-                  "startColumn": 18,
-                  "endLine": 12,
-                  "endColumn": 25
+                  "startLine": 14,
+                  "startColumn": 50,
+                  "endLine": 14,
+                  "endColumn": 57
                 }
               }
             }
@@ -177,18 +177,18 @@
           }
         },
         {
-          "ruleId": "S4487",
+          "ruleId": "S1118",
           "level": "warning",
-          "message": "Remove this unread private field '_logger' or refactor the code to use its value.",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Test04/Controllers/HomeController.cs",
+                "uri": "file:///C:/ProgramData/Jenkins/.jenkins/workspace/Cred2/Program.cs",
                 "region": {
-                  "startLine": 14,
-                  "startColumn": 50,
-                  "endLine": 14,
-                  "endColumn": 57
+                  "startLine": 12,
+                  "startColumn": 18,
+                  "endLine": 12,
+                  "endColumn": 25
                 }
               }
             }
