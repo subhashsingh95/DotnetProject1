@@ -1,6 +1,6 @@
-projectKey=Cred2
+projectKey=Test01
 serverUrl=http://localhost:9000
 serverVersion=9.3.0.51899
-dashboardUrl=http://localhost:9000/dashboard?id=Cred2
-ceTaskId=AX9FutFRnoijrSqU00Yq
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AX9FutFRnoijrSqU00Yq
+dashboardUrl=http://localhost:9000/dashboard?id=Test01
+ceTaskId=AX9F3gEVnoijrSqU00Yr
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX9F3gEVnoijrSqU00Yr
