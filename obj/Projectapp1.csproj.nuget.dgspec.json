@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test01\\Projectapp1.csproj": {}
+    "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test03\\Projectapp1.csproj": {}
   },
   "projects": {
-    "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test01\\Projectapp1.csproj": {
+    "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test03\\Projectapp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test01\\Projectapp1.csproj",
+        "projectUniqueName": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test03\\Projectapp1.csproj",
         "projectName": "Projectapp1",
-        "projectPath": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test01\\Projectapp1.csproj",
+        "projectPath": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test03\\Projectapp1.csproj",
         "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
-        "outputPath": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test01\\obj\\",
+        "outputPath": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Test03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
