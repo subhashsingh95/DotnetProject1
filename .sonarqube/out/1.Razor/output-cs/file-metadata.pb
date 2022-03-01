@@ -1,0 +1,11 @@
+€
+uC:\ProgramData\Jenkins\.jenkins\workspace\Test01\obj\Release\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.csutf-8q
+fC:\ProgramData\Jenkins\.jenkins\workspace\Test01\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.csutf-8s
+hC:\ProgramData\Jenkins\.jenkins\workspace\Test01\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.csutf-8s
+hC:\ProgramData\Jenkins\.jenkins\workspace\Test01\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.csutf-8u
+jC:\ProgramData\Jenkins\.jenkins\workspace\Test01\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.csutf-8{
+pC:\ProgramData\Jenkins\.jenkins\workspace\Test01\obj\Release\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.csutf-8‡
+|C:\ProgramData\Jenkins\.jenkins\workspace\Test01\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8s
+hC:\ProgramData\Jenkins\.jenkins\workspace\Test01\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.csutf-8q
+fC:\ProgramData\Jenkins\.jenkins\workspace\Test01\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.csutf-8u
+jC:\ProgramData\Jenkins\.jenkins\workspace\Test01\obj\Release\net5.0\Projectapp1.RazorTargetAssemblyInfo.csutf-8
